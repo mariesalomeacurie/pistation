@@ -4,8 +4,6 @@
 
 Pi-Station is an edge intelligence platform running on Raspberry Pi 5. It captures audio and video continuously at live events, transcribes locally, syncs automatically when connectivity returns — and wraps every session in a cryptographic provenance stack that makes deepfake fabrication practically impossible to pass off as genuine.
 
-Built at the [Agents in the Wild](https://www.londoncalling.guide/agents-in-the-wild) hackathon, London, June 2026.
-
 ---
 
 ## The problem
